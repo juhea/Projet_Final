@@ -73,14 +73,7 @@ led
 앱인벤터 및 아두이노 연동, 발표, PPT 자료 준비<br><br><br><br>
 
 ## 산학SW프로젝트 결과보고서 
-![image](https://user-images.githubusercontent.com/109746200/180241880-67abc738-853b-4147-a36e-9be49fd878d9.png)
-
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/94774284/180189535-0387c58a-644e-45a3-b0d5-10c08a468a9e.png)
+![image](https://user-images.githubusercontent.com/94774284/180254629-0a3eff6d-42b8-47ec-85f2-d1dadc449c90.png) <br><br>
 
 
 
@@ -88,7 +81,15 @@ led
 
 
 
-![image](https://user-images.githubusercontent.com/94774284/180189063-6e5f900e-ba5d-4f0d-8814-166974f17bd3.png)
+![image](https://user-images.githubusercontent.com/94774284/180189535-0387c58a-644e-45a3-b0d5-10c08a468a9e.png) <br><br>
+
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/94774284/180189063-6e5f900e-ba5d-4f0d-8814-166974f17bd3.png) <br><br>
 
 
 
