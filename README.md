@@ -2,7 +2,7 @@
 
 -----------------------------------
 
-https://docs.google.com/presentation/d/1SUJPx9FMsVW9zNmyI3eVSCeIQioCI5IN/edit?usp=sharing&ouid=117701096765562912938&rtpof=true&sd=true <br>
+https://docs.google.com/presentation/d/1lNkvvwCKJEGnOMeBa-MwexF7AqvAFYjE/edit?usp=sharing&ouid=117701096765562912938&rtpof=true&sd=true <br>
 
 
 ### 최종 ppt는 용량이 커서 github에 파일이 올라가지 않아서 구글 드라이브에 업로드하고 링크 올립니다 <br>
