@@ -65,25 +65,13 @@ led
 엘리베이터의 층수를 알리는 문구
 
 
-### ● 개인별 역할분담 (팀원 별 담당하는 내용에 대해 설명)
-
-- 김시연
-아이디어 구상 , 엘리베이터 메인 개발, 발표, PPT 자료 준비<br>
-- 이하연
-앱인벤터 및 아두이노 연동, 발표, PPT 제작<br>
-- 홍주혜
-앱인벤터 및 아두이노 연동, 발표, PPT 자료 준비<br><br><br><br>
-
-## 산학SW프로젝트 결과보고서 
-![image](https://user-images.githubusercontent.com/94774284/180254629-0a3eff6d-42b8-47ec-85f2-d1dadc449c90.png) <br><br>
-
-
 
 
 
 
 
 ![image](https://user-images.githubusercontent.com/94774284/180189535-0387c58a-644e-45a3-b0d5-10c08a468a9e.png) <br><br>
+
 
 
 
