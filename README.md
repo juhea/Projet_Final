@@ -7,14 +7,12 @@
 https://docs.google.com/presentation/d/1lNkvvwCKJEGnOMeBa-MwexF7AqvAFYjE/edit?usp=sharing&ouid=117701096765562912938&rtpof=true&sd=true <br>
 
 
-### 최종 ppt는 용량이 커서 github에 파일이 올라가지 않아서 구글 드라이브에 업로드하고 링크 올립니다 <br>
 -----------------------------------
 
 
 ## 아이디어 제안서
 ### 주제 : < 아두이노를 활용한 블루투스 자동 호출 엘리베이터 ><br>
-### 팀명: 아이오토<br>
-### 팀원 : 20182640 김시연, 20182644 홍주혜, 20185014 이하연<br><br>
+
 ### ● 프로젝트 개요 (개발할 프로젝트의 전체적인 개요 작성 (전체구상도 그림 포함)<br>
 
 ![image](https://user-images.githubusercontent.com/109746200/180240276-403ab4fb-50e3-4de8-8572-d7c235713764.png)
